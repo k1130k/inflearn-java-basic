@@ -7,7 +7,7 @@ public class ElectricCar extends Car {
         System.out.println("전기차를 빠르게 이동합니다.");
     }
 
-    public void charge() {
+    public void charge()  {
         System.out.println("충전합니다.");
     }
 }
